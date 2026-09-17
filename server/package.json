@@ -4,6 +4,7 @@
   "description": "Secure OTP Authentication and Heritage AI Backend Service for Bharat Heritage",
   "main": "server.js",
   "scripts": {
+    "build": "echo 'No build step required for Node Express backend'",
     "start": "node server.js",
     "dev": "node --watch server.js"
   },
