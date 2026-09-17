@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center Kalash / Temple Spire Peak -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,23 L56,28 L52,28 Z" />
+    <path
+        android:fillColor="#FFCA28"
+        android:pathData="M54,26 C55.5,26 56.5,27.5 56.5,29 C56.5,30.5 55.5,32 54,32 C52.5,32 51.5,30.5 51.5,29 C51.5,27.5 52.5,26 54,26 Z" />
+    
+    <!-- Grand Heritage Monument Arch & Gateway -->
+    <path
+        android:fillColor="#FFF8E1"
+        android:pathData="M34,80 L34,58 C34,47 43,38 54,38 C65,38 74,47 74,58 L74,80 L68,80 L68,58 C68,50.3 61.7,44 54,44 C46.3,44 40,50.3 40,58 L40,80 Z" />
+
+    <!-- Inner Pillars & Steps -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M30,80 L78,80 L78,84 L30,84 Z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M27,84 L81,84 L81,87 L27,87 Z" />
+        
+    <!-- Central Dharma / Ashoka Chakra rays motif -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M54,54 C58.4,54 62,57.6 62,62 C62,66.4 58.4,70 54,70 C49.6,70 46,66.4 46,62 C46,57.6 49.6,54 54,54 Z" />
+    <path
+        android:fillColor="#1A237E"
+        android:pathData="M54,57 C56.8,57 59,59.2 59,62 C59,64.8 56.8,67 54,67 C51.2,67 49,64.8 49,62 C49,59.2 51.2,57 54,57 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,60 C55.1,60 56,60.9 56,62 C56,63.1 55.1,64 54,64 C52.9,64 52,63.1 52,62 C52,60.9 52.9,60 54,60 Z" />
+</vector>
